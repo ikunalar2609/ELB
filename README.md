@@ -16,7 +16,7 @@ An Elastic Load Balancer (ELB) is a managed load balancing service offered by AW
 - **Network Load Balancer (NLB):** Ideal for handling TCP/UDP traffic, making it suitable for gaming, IoT, and other high-throughput workloads.
 - **Classic Load Balancer (CLB):** The legacy load balancer that can distribute traffic across EC2 instances, but with fewer features compared to ALB and NLB.
 
-###Configuring an ELB
+### Configuring an ELB
 
 Configure an Elastic Load Balancer (ELB) to distribute traffic to multiple EC2 instances running a web application and monitor the health of the instances.
 
